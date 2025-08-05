@@ -78,6 +78,12 @@ The models were evaluated using the following metrics:
   - Accuracy
 - Similarly, the Support Vector Machine algorithm yielded the best performance (;e., the highest accuracy) in the analysis of the data with multicategorical target variable
 
+<img width="1000" height="600" alt="Model performance (continuous target variable)" src="https://github.com/user-attachments/assets/b832eba0-0685-4b1d-84e0-601594511f77" />
+
+<img width="1200" height="600" alt="Model performance (binary target variable)" src="https://github.com/user-attachments/assets/f59e5983-aadd-4e62-b532-56ff215b97c9" />
+
+<img width="1000" height="600" alt="Model performance (multicategorical target variable)" src="https://github.com/user-attachments/assets/1fb0b385-9332-4267-b49e-6998dd430355" />
+
 ### Variable importance
 
 By examining variable importance in models such as the Decision tree, Random forest, Lasso, Ridge, and Elastic Net, the following variables showed up as the most important variables in predicting students mathematics performance:
