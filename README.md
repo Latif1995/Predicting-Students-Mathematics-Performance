@@ -16,6 +16,7 @@
 - [References](#references)
 
 ### Project Overview
+---
 
 This projects aims to predict students Mathematic performance using different machine learning models. By comparing the performnace of the various machine learning models, we seek to identify the model with the best predictive performance to predict students mathematics performance. This will help to earlier identification of students who are likely to perform poorly in mathematics based on their characteristics and provide them with the needed support as quick as possible. 
 
@@ -111,7 +112,6 @@ The sample size for the analysis was relatively small. This can affect the gener
 2. Hastie, T., Tibshirani, R., & Friedman, J. (2009). An introduction to statistical learning.
 3. Silva, A. (2008). Using data mining to predict secondary school student performance.
    
-
 
 
 
