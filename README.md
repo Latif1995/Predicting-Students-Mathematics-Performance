@@ -108,7 +108,7 @@ The sample size for the analysis was relatively small. This can affect the gener
 
 ### References
 
-1. [SKlearn]([scikit-learn: machine learning in Python — scikit-learn 1.7.1 ...](https://scikit-learn.org/stable/)
+1. [SKlearn](https://scikit-learn.org/stable/)
 2. Hastie, T., Tibshirani, R., & Friedman, J. (2009). An introduction to statistical learning.
 3. Silva, A. (2008). Using data mining to predict secondary school student performance.
    
